@@ -1,4 +1,4 @@
-# 📈 Stock Sentiment Analysis Using LSTM
+# 📈 Stock Sentiment Analysis
 
 This project explores the relationship between financial news sentiment and stock price movement using machine learning.
 
