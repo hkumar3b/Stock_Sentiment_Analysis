@@ -7,7 +7,12 @@ This project explores the relationship between financial news sentiment and stoc
 Can we use financial news sentiment to predict short-term stock movement?  
 We explore this question using data from **NewsAPI** (news headlines) and **Yahoo Finance** (stock data for HDFC Bank).
 
-## 📦 Tools & Libraries
+## 📄 Certificate
+
+✅ I successfully completed this project as part of my Machine Learning work:  
+🔗 [View Project Completion Certificate](https://drive.google.com/file/d/1PBHLWNwmblr7BUyGOXx3tNsFiiSYwslJ/view?usp=sharing)
+
+## 🛠 Tools & Libraries
 
 - `pandas`, `numpy`, `yfinance`, `newsapi-python`
 - `TextBlob` for sentiment analysis
@@ -27,7 +32,7 @@ We explore this question using data from **NewsAPI** (news headlines) and **Yaho
 
 LSTM and SVM both outperformed traditional models, showing that **news sentiment** can be a powerful signal in stock prediction.
 
-## 🔚 Conclusion
+## ✅ Conclusion
 
 This project demonstrates the potential of using sentiment analysis in trading. Future improvements may include:
 - Using live news feeds
